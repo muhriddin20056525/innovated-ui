@@ -1,4 +1,4 @@
-# 📌 INNOVATED LOYIHASINING Tuzilishi
+# 📌 INNOVATED LOYIHASINING TUZILISHI
 
 Ushbu loyiha **HTML, CSS va JavaScript** yordamida tayyorlangan.
 
